@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1382999633 source:d:\documents\github\programa15\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
