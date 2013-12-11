@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1384370092 source:d:\documents\github\tareahoroscopo\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

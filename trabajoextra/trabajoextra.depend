@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1386716643 source:d:\documents\github\trabajoextra\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
